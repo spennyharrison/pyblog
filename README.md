@@ -5,9 +5,9 @@ This repository will contain my progress developing a web application using the 
 - [x] Chapter 1: Hello, World
 - [x] Chapter 2: Templates
 - [x] Chapter 3: Web Forms
-- [ ] *Chapter 4: Database*
-- [ ] Chapter 5: User Logins
-- [ ] Chapter 6: Profile Page and Avatars
+- [x] Chapter 4: Database
+- [x] Chapter 5: User Logins
+- [ ] *Chapter 6: Profile Page and Avatars*
 - [ ] Chapter 7: Error Handling
 - [ ] Chapter 8: Followers
 - [ ] Chapter 9: Pagination

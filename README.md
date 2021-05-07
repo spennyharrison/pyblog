@@ -7,8 +7,8 @@ This repository will contain my progress developing a web application using the 
 - [x] Chapter 3: Web Forms
 - [x] Chapter 4: Database
 - [x] Chapter 5: User Logins
-- [ ] *Chapter 6: Profile Page and Avatars*
-- [ ] Chapter 7: Error Handling
+- [x] Chapter 6: Profile Page and Avatars
+- [ ] *Chapter 7: Error Handling*
 - [ ] Chapter 8: Followers
 - [ ] Chapter 9: Pagination
 - [ ] Chapter 10: Email Support

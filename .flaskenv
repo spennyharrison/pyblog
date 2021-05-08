@@ -1,3 +1,5 @@
 FLASK_APP = pyblog.py
-MAIL_HOST = localhost
-MAIL_PORT = 8025
+
+MAIL_SERVER = smtp.googlemail.com
+MAIL_PORT = 587
+MAIL_USE_TLS = 1

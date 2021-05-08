@@ -43,3 +43,4 @@ nosetests.xml
 app.db
 pyblog.log*
 config.py
+*.flaskenv*

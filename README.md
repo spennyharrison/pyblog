@@ -10,8 +10,8 @@ This repository will contain my progress developing a web application using the 
 - [x] Chapter 6: Profile Page and Avatars
 - [x] Chapter 7: Error Handling
 - [x] Chapter 8: Followers
-- [ ] *Chapter 9: Pagination*
-- [ ] Chapter 10: Email Support
+- [x] Chapter 9: Pagination
+- [ ] *Chapter 10: Email Support*
 - [ ] Chapter 11: Facelift
 - [ ] Chapter 12: Dates and Times
 - [ ] Chapter 13: l18n and L10n

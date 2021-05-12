@@ -11,8 +11,8 @@ This repository will contain my progress developing a web application using the 
 - [x] Chapter 7: Error Handling
 - [x] Chapter 8: Followers
 - [x] Chapter 9: Pagination
-- [ ] *Chapter 10: Email Support*
-- [ ] Chapter 11: Facelift
+- [x] Chapter 10: Email Support
+- [ ] *Chapter 11: Facelift*
 - [ ] Chapter 12: Dates and Times
 - [ ] Chapter 13: l18n and L10n
 - [ ] Chapter 14: Ajax

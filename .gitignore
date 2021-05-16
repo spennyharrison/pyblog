@@ -1,8 +1,3 @@
-# *__pycache__*
-# *config*
-# *app.db*
-# *.flaskenv*
-
 *.py[cod]
 
 # C extensions
@@ -43,4 +38,5 @@ nosetests.xml
 app.db
 pyblog.log*
 config.py
-*.flaskenv*
+.flaskenv
+messages.pot

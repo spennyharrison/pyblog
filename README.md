@@ -15,8 +15,8 @@ This repository will contain my progress developing a web application using the 
 - [x] Chapter 11: Facelift
 - [x] Chapter 12: Dates and Times
 - [x] Chapter 13: l18n and L10n
-- [ ] *Chapter 14: Ajax*
-- [ ] Chapter 15: A Better Application Structure
+- [x] Chapter 14: Ajax
+- [ ] *Chapter 15: A Better Application Structure*
 - [ ] Chapter 16: Full-Text Search
 - [ ] Chapter 17: Deployment on Linux
 - [ ] Chapter 18: Deployment on Heroku

@@ -39,4 +39,4 @@ app.db
 pyblog.log*
 config.py
 .flaskenv
-messages.pot
+.env

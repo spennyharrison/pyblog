@@ -19,8 +19,8 @@ This repository will contain my progress developing a web application using the 
 - [x] Chapter 15: A Better Application Structure 
 - [x] Chapter 16: Full-Text Search
 - [ ] ~~Chapter 17: Deployment on Linux~~
-- [ ] Chapter 18: Deployment on Heroku
-- [ ] Chapter 19: Deployment on Docker Containers
+- [x] Chapter 18: Deployment on Heroku
+- [ ] *Chapter 19: Deployment on Docker Containers*
 - [ ] Chapter 20: Some JavaScript Magic
 - [ ] Chapter 21: User Notifications
 - [ ] Chapter 22: Background Jobs

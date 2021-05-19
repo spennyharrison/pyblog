@@ -19,11 +19,13 @@ Flask-SQLAlchemy @ file:///tmp/build/80754af9/flask-sqlalchemy_1616180561581/wor
 Flask-WTF==0.14.3
 greenlet @ file:///C:/ci/greenlet_1611958475989/work
 guess-language-spirit==0.5.3
+gunicorn==20.1.0
 idna==2.10
 itsdangerous @ file:///home/ktietz/src/ci/itsdangerous_1611932585308/work
 Jinja2 @ file:///tmp/build/80754af9/jinja2_1612213139570/work
 Mako==1.1.4
 MarkupSafe @ file:///C:/ci/markupsafe_1607027406824/work
+psycopg2==2.8.6
 PyJWT==2.1.0
 python-dateutil==2.8.1
 python-dotenv==0.17.1

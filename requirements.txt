@@ -6,6 +6,7 @@ chardet==4.0.0
 click @ file:///home/linux1/recipes/ci/click_1610990599742/work
 dnspython==2.1.0
 dominate==2.6.0
+elasticsearch==7.12.1
 email-validator==1.1.2
 Flask @ file:///home/ktietz/src/ci/flask_1611932660458/work
 Flask-Babel==2.0.0

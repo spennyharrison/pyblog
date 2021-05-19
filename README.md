@@ -17,8 +17,8 @@ This repository will contain my progress developing a web application using the 
 - [x] Chapter 13: l18n and L10n
 - [x] Chapter 14: Ajax
 - [x] Chapter 15: A Better Application Structure 
-- [ ] *Chapter 16: Full-Text Search*
-- [ ] Chapter 17: Deployment on Linux
+- [x] Chapter 16: Full-Text Search
+- [ ] ~~Chapter 17: Deployment on Linux~~
 - [ ] Chapter 18: Deployment on Heroku
 - [ ] Chapter 19: Deployment on Docker Containers
 - [ ] Chapter 20: Some JavaScript Magic

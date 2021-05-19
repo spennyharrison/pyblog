@@ -35,8 +35,7 @@ nosetests.xml
 .project
 .pydevproject
 
+venv
 app.db
 pyblog.log*
-config.py
-.flaskenv
 .env

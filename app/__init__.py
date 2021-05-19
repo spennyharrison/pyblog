@@ -34,7 +34,7 @@ def create_app(config_class=Config):
     bootstrap.init_app(app)
     moment.init_app(app)
     babel.init_app(app)
-    app.elasticsearch=Elasticsearch([app.config['ELASTICSEARCH_URL']]) \
+    app.elasticsearch = Elasticsearch([app.config['ELASTICSEARCH_URL']]) \
         if app.config['ELASTICSEARCH_URL'] else None
 
     from app.errors import bp as errors_bp
@@ -62,19 +62,6 @@ def create_app(config_class=Config):
                 credentials=auth, secure=secure)
             mail_handler.setLevel(logging.ERROR)
             app.logger.addHandler(mail_handler)
-
-        if not os.path.exists('logs'):
-            os.mkdir('logs')
-        file_handler = RotatingFileHandler('logs/pyblog.log',
-                                           maxBytes=10240, backupCount=10)
-        file_handler.setFormatter(logging.Formatter(
-            '%(asctime)s %(levelname)s: %(message)s '
-            '[in %(pathname)s:%(lineno)d]'))
-        file_handler.setLevel(logging.INFO)
-        app.logger.addHandler(file_handler)
-
-        app.logger.setLevel(logging.INFO)
-        app.logger.info('PyBlog startup')
 
         if app.config['LOG_TO_STDOUT']:
             stream_handler = logging.StreamHandler()

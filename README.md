@@ -1,6 +1,9 @@
 ## Python Blog
 This repository will contain my progress developing a web application using the Flask framework in Python. I am following along with [*The New and Improved Flask Mega-Tutorial*](https://courses.miguelgrinberg.com/p/flask-mega-tutorial) by Miguel Grinberg. 
 
+### Heroku Deployment
+The current version of the app has been deployed [on Heroku](https://flask-pyblog.herokuapp.com). There are some ongoing issues with the search and password reset features, but I will be working on fixing those before starting on Chapter 19.
+
 ### Current Progress
 - [x] Chapter 1: Hello, World
 - [x] Chapter 2: Templates
